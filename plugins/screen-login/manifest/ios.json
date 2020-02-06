@@ -1,0 +1,34 @@
+{
+  "api": {},
+  "dependency_repository_url": [],
+  "platform": "ios",
+  "dependency_name": "@applicaster/screen-login",
+  "dependency_version": "0.0.1",
+  "author_name": "Enzo Donofrio",
+  "author_email": "e.donofrio@applicaster.com",
+  "manifest_version": "0.0.1",
+  "name": "QuickBrick Screen Login",
+  "description": "Quick Brick screen login plugin",
+  "type": "general",
+  "screen": true,
+  "react_native": true,
+  "identifier": "screen_login",
+  "ui_builder_support": true,
+  "whitelisted_account_ids": [],
+  "min_zapp_sdk": "0.0.1",
+  "deprecated_since_zapp_sdk": "",
+  "unsupported_since_zapp_sdk": "",
+  "preload": true,
+  "general": {
+    "fields": [
+      {
+        "type": "switch",
+        "key": "is_testing",
+        "tooltip_text": "Enable Test the login with fake credential",
+        "initial_value": false
+      }
+    ]
+  },
+  "custom_configuration_fields": [],
+  "targets": ["mobile"]
+}
