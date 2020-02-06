@@ -14,7 +14,7 @@
   "react_native": true,
   "identifier": "screen_login",
   "ui_builder_support": true,
-  "whitelisted_account_ids": [],
+  "whitelisted_account_ids": ["14af1289-ff7d-46d0-a101-7cb957577208"],
   "min_zapp_sdk": "0.0.1",
   "deprecated_since_zapp_sdk": "",
   "unsupported_since_zapp_sdk": "",
