@@ -1,0 +1,23 @@
+{
+  "name": "quickbrick-login-plugin",
+  "version": "0.0.1",
+  "description": "QuickBrick Login example template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applicaster/QuickBrick-Login-Plugin.git"
+  },
+  "keywords": [
+    "QuickBrick",
+    "Login"
+  ],
+  "author": "Enzo Donofrio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/applicaster/QuickBrick-Login-Plugin/issues"
+  },
+  "homepage": "https://github.com/applicaster/QuickBrick-Login-Plugin#readme"
+}
